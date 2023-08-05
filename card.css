@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.card{
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.btn , .btn:hover{
+    background-color: #303b5a;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;   
+}
+
+.overdue{
+    top: 15px;
+    background-color: rgb(109, 37, 37);
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 8px;
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
+
+.mins{
+    color: #fff;
+    bottom: 0;
+    margin-left: 10px;
+    letter-spacing: 1px;
+}
